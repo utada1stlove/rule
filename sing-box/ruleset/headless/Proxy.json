@@ -3,10 +3,13 @@
   "rules": [
     {
       "domain_suffix": [
-        "todoist.com"
+        "todoist.com",
+        "trello.com",
+        "trellocdn.com"
       ],
       "domain_keyword": [
-        "todoist"
+        "todoist",
+        "trello"
       ]
     }
   ]
