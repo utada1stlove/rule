@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "yandex.com",
+        "disk.yandex.com",
+        "yandex.ru",
+        "push.yandex.ru",
+        "disk.yandex.ru"
+      ],
+      "domain_keyword": [
+        "yandex"
+      ]
+    }
+  ]
+}

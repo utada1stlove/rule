@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "yumoty.xyz",
+        "infy.top",
+        "colinlin.top",
+        "hostloc.com"
+      ],
+      "domain_keyword": [
+        "yumoty",
+        "infy",
+        "colinlin",
+        "hostloc"
+      ]
+    }
+  ]
+}

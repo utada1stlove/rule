@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mega.nz",
+        "megaupload.com",
+        "mega.co.nz",
+        "mega.co"
+      ],
+      "domain_keyword": [
+        "mega"
+      ]
+    }
+  ]
+}
