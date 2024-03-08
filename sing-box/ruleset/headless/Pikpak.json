@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "pikpak.com",
+        "mypikpak.com",
+        "mypikpak.net",
+        "pikpak.net"
+      ],
+      "domain_keyword": [
+        "pikpak",
+        "mypikpak"
+      ]
+    }
+  ]
+}
