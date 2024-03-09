@@ -7,6 +7,7 @@
         "douyu.tv",
         "douyuscdn.com",
         "douyutv.com",
+        "douyuscdn2.com",
         "360buy.com",
         "360buyimg.com",
         "jcloudcs.com",
@@ -49,6 +50,7 @@
       "domain_keyword": [
         "alicdn",
         "alimama",
+        "douyu",
         "alipay"
       ]
     }
