@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "douyu.com",
+        "douyu.tv",
+        "douyuscdn.com",
+        "douyutv.com",
+        "360buy.com",
+        "360buyimg.com",
+        "jcloudcs.com",
+        "jd.com",
+        "jdcloud.com",
+        "jdpay.com",
+        "paipai.com",
+        "1688.com",
+        "alipayobjects.com",
+        "alisoft.com",
+        "alibaba.com",
+        "alibabausercontent.com",
+        "alibabacloud.com",
+        "alicdn.com",
+        "aliyuncdn.com",
+        "aliyun.com",
+        "aliyuncs.com",
+        "aliyundrive.com",
+        "aliyundrive.net",
+        "amap.com",
+        "autonavi.com",
+        "dingtalk.com",
+        "ele.me",
+        "hichina.com",
+        "mmstat.com",
+        "mxhichina.com",
+        "soku.com",
+        "taobao.com",
+        "taobaocdn.com",
+        "tbcache.com",
+        "tbcdn.com",
+        "tmall.com",
+        "tmall.hk",
+        "ucweb.com",
+        "xiami.com",
+        "xiami.net",
+        "ykimg.com",
+        "youku.com"
+      ],
+      "domain_keyword": [
+        "alicdn",
+        "alimama",
+        "alipay"
+      ]
+    }
+  ]
+}
