@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "www.nodeseek.com",
         "nodeseek.com"
       ],
       "domain_keyword": [

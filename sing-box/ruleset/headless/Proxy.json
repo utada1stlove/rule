@@ -5,12 +5,17 @@
       "domain_suffix": [
         "todoist.com",
         "trello.com",
-        "trellocdn.com"
+        "trellocdn.com",
+        "cloudflare.com",
+        "vk.com",
+        "vk-portal.net"
       ],
       "domain_keyword": [
         "todoist",
-        "trello"
-      ]
+        "trello",
+        "cloudflare",
+        "vk"
+      ] 
     }
   ]
 }
