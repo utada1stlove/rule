@@ -8,13 +8,15 @@
         "trellocdn.com",
         "cloudflare.com",
         "vk.com",
-        "vk-portal.net"
+        "vk-portal.net",
+        "v2ex.com"
       ],
       "domain_keyword": [
         "todoist",
         "trello",
         "cloudflare",
-        "vk"
+        "vk",
+        "v2ex"
       ] 
     }
   ]
