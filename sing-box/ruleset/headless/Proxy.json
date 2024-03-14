@@ -1,25 +1,31 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain_suffix": [
-        "todoist.com",
-        "trello.com",
-        "trellocdn.com",
-        "cloudflare.com",
-        "vk.com",
-        "vk-portal.net",
-        "v2ex.com",
-        "bbc.co.uk"
-      ],
-      "domain_keyword": [
-        "todoist",
-        "trello",
-        "cloudflare",
-        "vk",
-        "v2ex",
-        "bbc"
-      ] 
-    }
-  ]
+    "version": 1,
+    "rules":
+    [
+        {
+            "domain_suffix":
+            [
+                "todoist.com",
+                "trello.com",
+                "trellocdn.com",
+                "cloudflare.com",
+                "vk.com",
+                "vk-portal.net",
+                "v2ex.com",
+                "bbc.co.uk",
+                "hub.docker.com",
+                "docker.com"
+            ],
+            "domain_keyword":
+            [
+                "todoist",
+                "trello",
+                "cloudflare",
+                "vk",
+                "v2ex",
+                "bbc",
+                "docker"
+            ]
+        }
+    ]
 }
