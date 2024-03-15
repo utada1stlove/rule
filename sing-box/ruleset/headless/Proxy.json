@@ -14,7 +14,10 @@
                 "v2ex.com",
                 "bbc.co.uk",
                 "hub.docker.com",
-                "docker.com"
+                "docker.com",
+                "javlibrary.com",
+                "javdb.com",
+                "jable.tv"
             ],
             "domain_keyword":
             [
@@ -24,7 +27,11 @@
                 "vk",
                 "v2ex",
                 "bbc",
-                "docker"
+                "docker",
+                "jav",
+                "javlibrary",
+                "javdb",
+                "jable"
             ]
         }
     ]
