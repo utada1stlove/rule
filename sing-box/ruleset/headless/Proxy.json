@@ -22,7 +22,9 @@
                 "mushroomtrack.com",
                 "assets-cdn.jable.tv",
                 "asf-doc.mushroomtrack.com",
-                "lencr.org"
+                "lencr.org",
+                "digicert.com",
+                "anono-cloneing.mushroomtrack.com"
             ],
             "domain_keyword":
             [
@@ -39,6 +41,7 @@
                 "jable",
                 "typora",
                 "mushroomtrack",
+                "digicert",
                 "lencr"
             ]
         }
