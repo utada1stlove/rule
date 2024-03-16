@@ -3,7 +3,7 @@
     "rules":
     [
         {
-            "domain_suffix":
+            "domain":
             [
                 "todoist.com",
                 "trello.com",
@@ -27,7 +27,18 @@
                 "digicert.com",
                 "anono-cloneing.mushroomtrack.com",
                 "hot-box-gen.mushroomtrack.com",
-                "home-clone-clear.mushroomtrack.com"
+                "home-clone-clear.mushroomtrack.com",
+                "masmao-toera.mushroomtrack.com"
+            ],
+            "domain_suffix":
+            [
+                ".mushroomtrack.com",
+                ".lencr.org",
+                ".jable.tv",
+                ".javdb.com",
+                ".typora.io",
+                ".javdb.com",
+                ".docker.com"
             ],
             "domain_keyword":
             [
