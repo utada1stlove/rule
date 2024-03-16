@@ -18,7 +18,11 @@
                 "javlibrary.com",
                 "javdb.com",
                 "jable.tv",
-                "typora.io"
+                "typora.io",
+                "mushroomtrack.com"
+                "assets-cdn.jable.tv",
+                "asf-doc.mushroomtrack.com"
+                "lencr.org"
             ],
             "domain_keyword":
             [
@@ -33,7 +37,9 @@
                 "javlibrary",
                 "javdb",
                 "jable",
-                "typora"
+                "typora",
+                "mushroomtrack",
+                "lencr"
             ]
         }
     ]
