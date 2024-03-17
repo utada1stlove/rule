@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "rules":
+    [
+        {
+            "process_name":
+            [
+                "firefox.exe"
+            ],
+            "process_path":
+            [
+                "device\\HarddiskVolume8\\Program Files\\Firefox Nightly\\firefox.exe"
+            ]
+        }
+    ]
+}
