@@ -6,3 +6,4 @@
 2. 国外直连走自己的DNS
 3. 国外不能直连走Google或者cloudflare
 4. 局域网bypass
+5. steam规则
