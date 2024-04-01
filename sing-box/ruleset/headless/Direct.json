@@ -4,10 +4,12 @@
     {
       "domain_suffix": [
         "www.nodeseek.com",
-        "nodeseek.com"
+        "nodeseek.com",
+        "*.soruxgpt.com"
       ],
       "domain_keyword": [
-        "nodeseek"
+        "nodeseek",
+        "soruxgpt"
       ]
     }
   ]
