@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "www.nodeseek.com",
+        "nodeseek.com",
+        "*.soruxgpt.com"
+      ],
+      "domain_keyword": [
+        "nodeseek",
+        "soruxgpt"
+      ]
+    }
+  ]
+}
