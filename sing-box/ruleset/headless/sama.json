@@ -5,11 +5,16 @@
       "domain_suffix": [
         "www.nodeseek.com",
         "nodeseek.com",
-        "*.soruxgpt.com"
+        "*.soruxgpt.com",
+        "*.gotempest.app",
+        "*.akacdn.app",
+        ".sentry.io"
       ],
       "domain_keyword": [
         "nodeseek",
-        "soruxgpt"
+        "soruxgpt",
+        "gotempest",
+        "tempest"
       ]
     }
   ]
