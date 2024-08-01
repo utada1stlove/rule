@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ws.kaiheila.cn",
+        "sh-sig02.kaiheila.cn",
+        "*.kaiheila.cn",
+        "www.kookapp.cn",
+        "static.kookapp.cn",
+        "sentry.kookapp.cn",
+        "img.kookapp.cn",
+        "*kookapp.cn"
+      ],
+      "domain_keyword": [
+        "kook",
+        "kaiheila",
+        "kookapp"
+      ]
+    }
+  ]
+}
