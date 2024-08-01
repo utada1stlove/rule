@@ -4,10 +4,23 @@
     {
       "source_ip_cidr": [
         "45.78.27.223"
-        
       ],
       "ip_cidr": [
         "45.78.27.223"
+      ],
+      "domain_suffix": [
+        "ws.kaiheila.cn",
+        "sh-sig02.kaiheila.cn",
+        "*.kaiheila.cn",
+        "www.kookapp.cn",
+        "static.kookapp.cn",
+        "sentry.kookapp.cn",
+        "img.kookapp.cn",
+        "*kookapp.cn"
+      ],
+      "domain_keyword": [
+        "kaiheila",
+        "kookapp"
       ]
     }
   ]
