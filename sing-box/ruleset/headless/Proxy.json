@@ -28,7 +28,8 @@
                 "anono-cloneing.mushroomtrack.com",
                 "hot-box-gen.mushroomtrack.com",
                 "home-clone-clear.mushroomtrack.com",
-                "masmao-toera.mushroomtrack.com"
+                "masmao-toera.mushroomtrack.com",
+                "sing-box.sagernet.org"
             ],
             "domain_suffix":
             [
@@ -38,7 +39,8 @@
                 ".javdb.com",
                 ".typora.io",
                 ".javdb.com",
-                ".docker.com"
+                ".docker.com",
+                ".sagernet.org"
             ],
             "domain_keyword":
             [
@@ -56,7 +58,9 @@
                 "typora",
                 "mushroomtrack",
                 "digicert",
-                "lencr"
+                "lencr",
+                "sagernet",
+                "sing-box"
             ]
         }
     ]
