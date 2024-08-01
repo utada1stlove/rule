@@ -45,13 +45,23 @@
         "xiami.com",
         "xiami.net",
         "ykimg.com",
-        "youku.com"
+        "youku.com",
+        "ws.kaiheila.cn",
+        "sh-sig02.kaiheila.cn",
+        "*.kaiheila.cn",
+        "www.kookapp.cn",
+        "static.kookapp.cn",
+        "sentry.kookapp.cn",
+        "img.kookapp.cn",
+        "*kookapp.cn"
       ],
       "domain_keyword": [
         "alicdn",
         "alimama",
         "douyu",
-        "alipay"
+        "alipay",
+        "kaiheila",
+        "kookapp"
       ]
     }
   ]
