@@ -16,3 +16,4 @@
 - DoApp：Domestic APP 国内app的意思
 - Sama: 需要通过外网进行方位
 - Proxy: 这个也是需要通过外网访问，因为官方的geosite并没有相关的域名，需要自己来进行整理
+- Server-direct: 本来是打算直连自己的服务器的，但是我看了一下还包括国内的一些域名
