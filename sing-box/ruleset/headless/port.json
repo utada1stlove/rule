@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "source_port_range": "10000:60000",
+      "port_range": "10000:60000",
+      "port": 22,
+      "source_port": 22
+    }
+  ]
+}
