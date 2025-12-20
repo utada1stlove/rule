@@ -53,7 +53,8 @@
         "static.kookapp.cn",
         "sentry.kookapp.cn",
         "img.kookapp.cn",
-        "*kookapp.cn"
+        "*.kookapp.cn",
+	"api.deeplx.org"
       ],
       "domain_keyword": [
         "alicdn",
