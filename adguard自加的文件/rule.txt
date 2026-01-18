@@ -1,0 +1,5 @@
+# Linux Adguard 
+maomiav.one###site-content > div.nf8adeb32ca23c2ac89309cebc07748fb:nth-child(2)
+maomiav.one###videos-container > div.video-player-container.cl.row.m-100:nth-child(6) > div.video-container.col-10:first-child > div:last-child > div.i08043bd4e833a5088001efddf7628548:first-child
+maomiav.one###site-content > div.nf8adeb32ca23c2ac89309cebc07748fb:nth-child(2)
+maomiav.one###alert_windows > div.q-dialog__inner.flex.no-pointer-events.q-dialog__inner--minimized.q-dialog__inner--standard.fixed-full.flex-center:last-child > div.up-dialog-auto.alert_windows.q-card.q-card--dark.q-dark
